@@ -1,10 +1,1 @@
-<div align="center">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-  <img src="https://github.com/images/mona-happy.gif" alt="GitHub happy Octocat" width="100" style="margin: 0 5px;">
-</div>
+<img src="https://raw.githubusercontent.com/ra1nyxin/ra1nyxin/main/nggyu.gif" alt="Never Gonna Give You Up GIF" width="100%" />
