@@ -1,4 +1,6 @@
-<img src="Touhou_Extreme_Fullxxxxx.gif" width="1000" style="image-rendering: pixelated;">
+<p align="center">
+  <img src="Touhou_Extreme_Fullxxxxx.gif" width="100%" style="max-width: 100%; image-rendering: pixelated; image-rendering: crisp-edges;">
+</p>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ra1nyxin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=30" width="100%" />
